@@ -1,0 +1,88 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 56px;
+  font-family: Allerta;
+}
+
+#buttons-all {
+	    background-color:#6EA4CA;
+        color: #00000;
+        border-color: #6EA4CA;
+}
+
+
+
+
+/*HEADER INFO */
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#title-header {
+	color: white;
+	padding-bottom: 20%;
+}
+#title-header h3 span {
+	color: #6EA4CA;
+}
+
+
+
+
+
+/*INDUSTRY CARDS SECTION */
+#industry-cards {
+	color:#0C3C60;
+}
+
+#industry-buttons {
+	padding-bottom: 5%;
+}
+
+
+/*TOOLS SECTION */
+#tools-header {
+    padding-top: 7%;
+    color: #0C3C60;
+
+}
+#cols {
+        color:#0C3C60;
+        text-align: center;
+        padding-top: 7%;
+        padding-bottom: 3%;
+
+      }
+#tools-image {
+         padding-top: 7%;
+  	}
+
+
+
+
+
+#info-card {
+	    /*background-color:#6EA4CA;*/
+        color: #00000;
+        border-color: #6EA4CA;
+}
+
+#sign-up {
+	 list-style-type: none;
+	 text-align: center;
+
+}
+.portfolio-item {
+  margin-bottom: 30px;
+}
