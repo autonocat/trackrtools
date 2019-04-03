@@ -14,7 +14,9 @@ body {
         color: #00000;
         border-color: #6EA4CA;
 }
-
+#hot-btn {
+  background-color: #ef533f;
+}
 
 
 
@@ -30,6 +32,7 @@ body {
 }
 
 #title-header {
+  padding-top: 10%;
 	color: white;
 	padding-bottom: 20%;
 }
@@ -37,18 +40,6 @@ body {
 	color: #6EA4CA;
 }
 
-
-
-
-
-/*INDUSTRY CARDS SECTION */
-#industry-cards {
-	color:#0C3C60;
-}
-
-#industry-buttons {
-	padding-bottom: 5%;
-}
 
 
 /*TOOLS SECTION */
@@ -62,11 +53,27 @@ body {
         text-align: center;
         padding-top: 7%;
         padding-bottom: 3%;
+        text-transform: capitalize;
 
       }
 #tools-image {
          padding-top: 7%;
-  	}
+    }
+
+
+
+/*INDUSTRY CARDS SECTION */
+#industry-cards {
+	color:#0C3C60;
+  text-transform: capitalize;
+}
+
+#industry-buttons {
+	padding-bottom: 5%;
+}
+
+
+
 
 
 
