@@ -53,19 +53,22 @@ body {
         text-align: center;
         padding-top: 7%;
         padding-bottom: 3%;
-        text-transform: capitalize;
-
       }
+
 #tools-image {
          padding-top: 7%;
     }
+
+/*postings*/
+#postings h1 {
+  color: #0C3C60;
+}
 
 
 
 /*INDUSTRY CARDS SECTION */
 #industry-cards {
 	color:#0C3C60;
-  text-transform: capitalize;
 }
 
 #industry-buttons {
